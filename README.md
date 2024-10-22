@@ -1,0 +1,1 @@
+Clone repository into your github workflow and does tests on branch, and regular task-by-task pushes to main branch. Files should be interpolatable, but since I set it up on mac, for whatever reason it does not work let me know so I can switch over to Windows or maybe someone else can just release a Windows setup to main branch there.
